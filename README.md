@@ -71,10 +71,13 @@ Se desarrolló un modelo dimensional en esquema estrella, integrando la tabla de
 
 Los objetivos comerciales fueron incorporados respetando su granularidad anual para evitar comparaciones mensuales no respaldadas por los datos de origen.
 
-## 📄 Documentación
+## 📄 Documentación y archivos
 
-El repositorio incluye la documentación completa del proyecto, donde se detallan las decisiones de limpieza, transformación, modelado, construcción de indicadores, diseño del dashboard y análisis de resultados.
+La documentación completa detalla el proceso de limpieza y transformación,
+modelado dimensional, desarrollo de medidas DAX, diseño del dashboard,
+análisis de resultados y recomendaciones.
 ➡️ [Ver documentación completa del proyecto](Bodega_Chilecito_Documentación.pdf)
+➡️ [Descargar dashboard de Power BI](Bodega_Chilecito_Dashboard.pbix)
 
 ## ℹ️ Sobre los datos
 
