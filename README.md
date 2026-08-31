@@ -37,6 +37,26 @@ El dashboard se estructuró en cinco páginas:
 - **Análisis de Clientes:** concentración, tipología y distribución geográfica.
 - **Objetivos vs. Resultados:** seguimiento del cumplimiento comercial.
 
+  ### Resumen Ejecutivo
+
+![Resumen Ejecutivo](01_resumen_ejecutivo.png)
+
+### Análisis de Ventas
+
+![Análisis de Ventas](02_análisis_ventas.png)
+
+### Productos y Rentabilidad
+
+![Productos y Rentabilidad](03_productos_rentabilidad.png)
+
+### Análisis de Clientes
+
+![Análisis de Clientes](04_análisis_clientes.png)
+
+### Objetivos vs. Resultados
+
+![Objetivos vs. Resultados](05_objetivos_resultados.png)
+
 ## 🔎 Principales hallazgos
 
 - Las ventas netas crecieron **8,63 % en 2024**, pero el crecimiento se desaceleró hasta **0,42 % en 2025**.
