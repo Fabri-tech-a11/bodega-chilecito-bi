@@ -58,5 +58,3 @@ El repositorio incluye la documentación completa del proyecto, donde se detalla
 ## ℹ️ Sobre los datos
 
 Este proyecto fue desarrollado como **caso de estudio utilizando datos simulados**, buscando reproducir un escenario comercial realista del sector vitivinícola.
-
-Este proyecto fue desarrollado como **caso de estudio utilizando datos simulados**, buscando reproducir un escenario comercial realista del sector vitivinícola.
