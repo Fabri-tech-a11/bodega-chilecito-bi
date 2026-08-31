@@ -74,6 +74,7 @@ Los objetivos comerciales fueron incorporados respetando su granularidad anual p
 ## 📄 Documentación
 
 El repositorio incluye la documentación completa del proyecto, donde se detallan las decisiones de limpieza, transformación, modelado, construcción de indicadores, diseño del dashboard y análisis de resultados.
+➡️ [Ver documentación completa del proyecto](Bodega_Chilecito_Documentacion.pdf)
 
 ## ℹ️ Sobre los datos
 
