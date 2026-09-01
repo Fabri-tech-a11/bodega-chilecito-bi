@@ -84,7 +84,7 @@ El dashboard se estructuró en cinco páginas:
 
 ## 📄 Documentación y archivos
 
-La documentación completa detalla el proceso de limpieza y transformación, modelado dimensional, desarrollo de medidas DAX, diseño del dashboard, análisis de resultados y recomendaciones. 
+La documentación completa detalla el proceso de limpieza y transformación, modelado dimensional, desarrollo de medidas DAX, diseño del dashboard, análisis de resultados y recomendaciones.
 
 ➡️ [Ver documentación completa del proyecto](Bodega_Chilecito_Documentación.pdf)
 ➡️ [Descargar dashboard de Power BI](Bodega_Chilecito_Dashboard.pbix)
