@@ -27,6 +27,14 @@ El proyecto comprendió las siguientes etapas:
 6. Diseño de un dashboard interactivo en Power BI.
 7. Análisis de resultados y elaboración de recomendaciones.
 
+### Transformación y calidad de datos
+
+La preparación de los datos se realizó mediante Power Query, aplicando procesos
+de limpieza, estandarización, validación y recuperación de valores faltantes
+mediante reglas de negocio.
+
+![Transformación de datos con Power Query](power_query_transformación.png)
+
 ## 📊 Dashboard
 
 El dashboard se estructuró en cinco páginas:
