@@ -35,6 +35,15 @@ mediante reglas de negocio.
 
 ![Transformación de datos con Power Query](power_query_transformación.png)
 
+### Modelo de datos
+
+Se construyó un modelo dimensional orientado al análisis, relacionando la tabla
+de ventas con las dimensiones de clientes, productos, empleados, sucursales y
+calendario. Además, se incorporó una tabla de objetivos comerciales para
+comparar el desempeño real con las metas definidas.
+
+![Modelo de datos](modelo_datos.png)
+
 ## 📊 Dashboard
 
 El dashboard se estructuró en cinco páginas:
