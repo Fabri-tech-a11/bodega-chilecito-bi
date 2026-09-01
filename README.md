@@ -82,12 +82,6 @@ El dashboard se estructuró en cinco páginas:
 - El cumplimiento acumulado de objetivos alcanzó **100,18 %**, aunque la evolución anual muestra un deterioro hasta ubicarse por debajo del objetivo en 2025.
 - El análisis por sucursal evidencia comportamientos diferentes que pueden quedar ocultos al observar únicamente los resultados agregados.
 
-## 🗂️ Modelo de datos
-
-Se desarrolló un modelo dimensional en esquema estrella, integrando la tabla de hechos de ventas con dimensiones de clientes, productos, empleados, sucursales y calendario.
-
-Los objetivos comerciales fueron incorporados respetando su granularidad anual para evitar comparaciones mensuales no respaldadas por los datos de origen.
-
 ## 📄 Documentación y archivos
 
 La documentación completa detalla el proceso de limpieza y transformación,
