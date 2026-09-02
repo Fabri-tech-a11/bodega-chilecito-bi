@@ -92,3 +92,4 @@ La documentación completa detalla el proceso de limpieza y transformación, mod
 ## ℹ️ Sobre los datos
 
 Este proyecto fue desarrollado como **caso de estudio utilizando datos simulados**, buscando reproducir un escenario comercial realista del sector vitivinícola.
+Todos los valores monetarios utilizados en el proyecto se encuentran expresados en **pesos argentinos (ARS)**.
